@@ -10,7 +10,7 @@ class DB {
 		
 		'password'	=>	FALSE,
 		
-		'database'	=> 'polcode'
+		'database'	=> 'fas_db'
 		
 	
 	);
